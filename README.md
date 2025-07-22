@@ -1,2 +1,1 @@
 # GT is a little advanced rag for code bases with mimimum  llm api's  calls possible still maintaing the context of query weather it belogs to the code encodings or the natural human language ! and making the most suitable retrivals
-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
